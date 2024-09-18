@@ -1,0 +1,23 @@
+{
+  "name": "athlete",
+  "version": "0.0.1",
+  "description": "The framework",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "dependency injection",
+    "di",
+    "inversion of control container",
+    "ioc",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Ardyshev Denis <nskaskyou@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
